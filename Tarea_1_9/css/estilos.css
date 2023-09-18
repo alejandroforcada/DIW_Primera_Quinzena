@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: black;
+    color: white;
+    width: 1000px;
+    margin:0 auto;
+    width:700px;
+    text-align: center;
+}
+
+
+img{
+    border-radius: 20px;
+}
+article{
+    float:left;
+    margin: 10px;
+}
+
+
+
+
+footer{
+    position:relative;
+    top: 200px;
+    right: 150px;
+}
+
+
+div{position:relative;
+width: 150px;}
+
+#form{
+    bottom:120px;
+    left: 520px;
+}
+
+
